@@ -1,0 +1,21 @@
+HR Dashboard Overview
+This HR Dashboard provides a comprehensive view of key HR metrics, offering insights into workforce composition, salary distribution, employee growth, and leave balances. The dashboard is designed to support HR managers in making data-driven decisions to optimize workforce management. Key features include:
+
+Workforce Composition:
+
+Job Title Distribution: Bar chart showing the count of employees across different job titles, highlighting the most common roles within the organization.
+Gender Split: Pie chart illustrating the gender distribution of the staff, providing a quick overview of gender diversity within the workforce.
+Demographics:
+
+Age Distribution: Histogram displaying the age distribution of employees, with a notable concentration in the 30-35 age range.
+Salary Analysis:
+
+Top Earners: Bar chart listing employees with the highest salaries, enabling a quick identification of top earners.
+Salary by Education Qualification: Box plots comparing salary ranges based on educational qualifications, indicating that employees with a Master's degree tend to earn higher salaries.
+Employee Growth:
+
+Growth Over Time: Line chart showing the cumulative number of employees joining the organization each year, demonstrating steady growth.
+Leave Balances:
+
+Leave Balance by Job Title: Table highlighting average leave balances for different job titles, segregated by gender. This helps in identifying roles with higher leave balances and potential staffing issues.
+This dashboard was developed to provide a clear and interactive way to monitor and analyze key HR metrics, helping HR professionals to understand workforce trends, identify areas for improvement, and make informed decisions. The use of various data visualization techniques ensures that complex data is presented in an easy-to-understand format, facilitating better communication and strategic planning.
